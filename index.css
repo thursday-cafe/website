@@ -39,7 +39,11 @@ body:after{
 	inset 0 0 100px #111111,
 	inset 0 0 100px #111111,
 	inset 0 0 100px #111111,
+<<<<<<< HEAD
 	0 0 100px #111111;
+=======
+	inset 0 0 100px #111111;
+>>>>>>> 5464e57161942cd43d86e245dcca4b0eee5e42e3
 }
 
 div#wrapper {

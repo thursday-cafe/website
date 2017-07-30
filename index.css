@@ -68,10 +68,13 @@ footer{
 }
 
 #info{
+	z-index: 4;
 	position: absolute;
 	width: 960px;
 	max-width: 100%;
 	height: 250px;
+	top: 40px;
+	margin: auto;
 	text-align: center;
 }
 

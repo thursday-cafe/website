@@ -26,6 +26,8 @@ body {
 	/*-webkit-text-size-adjust: none;*/
 }
 
+
+
 /*body:after{
 	z-index: 1;
 	position: absolute;
@@ -76,7 +78,7 @@ footer{
 	top: 40px;
 	margin: auto;
 	text-align: center;
-	font-size: 3vmin;
+	font-size: 3vw;
 }
 
 #header_overwidth{
@@ -170,14 +172,28 @@ footer{
 	border-width: 10px;
 	border-color: #ff4500;
 	max-width: 100%;
-	font-size: 3vmin;
+	font-size: 3vw;
 }
 
 .headline{
 	text-align: center;
-	font-size: 3vmin;
+	font-size: 3vw;
 }
 
 .contents{
 	text-align: center;
+}
+
+@media(min-width: 720px){
+
+	#whats_new {
+		font-size:20px;
+	}
+	.headline {
+		font-size:20px;
+	}
+	#info {
+		font-size:20px;
+	}
+
 }

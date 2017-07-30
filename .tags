@@ -30,7 +30,7 @@ p	/Users/Yoshinori/thursday_cafe/website/index.html	/^				<p>$/;"	function	line:
 src: url('./fonts/Makinas-Flat-5.woff') format('woff')	/Users/Yoshinori/thursday_cafe/website/index.css	/^	src: url('.\/fonts\/Makinas-Flat-5.woff') format('woff'),$/;"	function	line:10
 url('./fonts/Makinas-Flat-5.woff2') format('woff2')	/Users/Yoshinori/thursday_cafe/website/index.css	/^	url('.\/fonts\/Makinas-Flat-5.woff2') format('woff2'),$/;"	function	line:11
 body	/Users/Yoshinori/thursday_cafe/website/index.css	/^body {$/;"	function	line:19
-body:after	/Users/Yoshinori/thursday_cafe/website/index.css	/^body:after{$/;"	function	line:28
+/*body:after	/Users/Yoshinori/thursday_cafe/website/index.css	/^\/*body:after{$/;"	function	line:28
 inset 0 0 100px #111111	/Users/Yoshinori/thursday_cafe/website/index.css	/^	inset 0 0 100px #111111,$/;"	function	line:39
 inset 0 0 100px #111111	/Users/Yoshinori/thursday_cafe/website/index.css	/^	inset 0 0 100px #111111,$/;"	function	line:40
 inset 0 0 100px #111111	/Users/Yoshinori/thursday_cafe/website/index.css	/^	inset 0 0 100px #111111,$/;"	function	line:41

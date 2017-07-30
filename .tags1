@@ -8,23 +8,23 @@
 src: url('./fonts/Makinas-Flat-5.woff') format('woff')	/Users/Yoshinori/thursday_cafe/website/index.css	/^	src: url('.\/fonts\/Makinas-Flat-5.woff') format('woff'),$/;"	function	line:10
 url('./fonts/Makinas-Flat-5.woff2') format('woff2')	/Users/Yoshinori/thursday_cafe/website/index.css	/^	url('.\/fonts\/Makinas-Flat-5.woff2') format('woff2'),$/;"	function	line:11
 body	/Users/Yoshinori/thursday_cafe/website/index.css	/^body {$/;"	function	line:19
-/*body:after	/Users/Yoshinori/thursday_cafe/website/index.css	/^\/*body:after{$/;"	function	line:28
-inset 0 0 100px #111111	/Users/Yoshinori/thursday_cafe/website/index.css	/^	inset 0 0 100px #111111,$/;"	function	line:39
+/*body:after	/Users/Yoshinori/thursday_cafe/website/index.css	/^\/*body:after{$/;"	function	line:29
 inset 0 0 100px #111111	/Users/Yoshinori/thursday_cafe/website/index.css	/^	inset 0 0 100px #111111,$/;"	function	line:40
 inset 0 0 100px #111111	/Users/Yoshinori/thursday_cafe/website/index.css	/^	inset 0 0 100px #111111,$/;"	function	line:41
-div#wrapper	/Users/Yoshinori/thursday_cafe/website/index.css	/^div#wrapper {$/;"	function	line:45
-header	/Users/Yoshinori/thursday_cafe/website/index.css	/^header{$/;"	function	line:52
-footer	/Users/Yoshinori/thursday_cafe/website/index.css	/^footer{$/;"	function	line:59
-#info	/Users/Yoshinori/thursday_cafe/website/index.css	/^#info{$/;"	function	line:70
-#header_overwidth	/Users/Yoshinori/thursday_cafe/website/index.css	/^#header_overwidth{$/;"	function	line:81
-#footer_overwidth	/Users/Yoshinori/thursday_cafe/website/index.css	/^#footer_overwidth{$/;"	function	line:93
-#logo	/Users/Yoshinori/thursday_cafe/website/index.css	/^#logo{$/;"	function	line:107
-.main	/Users/Yoshinori/thursday_cafe/website/index.css	/^.main{$/;"	function	line:124
-.main:after	/Users/Yoshinori/thursday_cafe/website/index.css	/^.main:after {$/;"	function	line:132
-inset 0 0 20px #333333	/Users/Yoshinori/thursday_cafe/website/index.css	/^	inset 0 0 20px #333333,$/;"	function	line:142
+inset 0 0 100px #111111	/Users/Yoshinori/thursday_cafe/website/index.css	/^	inset 0 0 100px #111111,$/;"	function	line:42
+div#wrapper	/Users/Yoshinori/thursday_cafe/website/index.css	/^div#wrapper {$/;"	function	line:46
+header	/Users/Yoshinori/thursday_cafe/website/index.css	/^header{$/;"	function	line:53
+footer	/Users/Yoshinori/thursday_cafe/website/index.css	/^footer{$/;"	function	line:60
+#info	/Users/Yoshinori/thursday_cafe/website/index.css	/^#info{$/;"	function	line:71
+#header_overwidth	/Users/Yoshinori/thursday_cafe/website/index.css	/^#header_overwidth{$/;"	function	line:82
+#footer_overwidth	/Users/Yoshinori/thursday_cafe/website/index.css	/^#footer_overwidth{$/;"	function	line:94
+#logo	/Users/Yoshinori/thursday_cafe/website/index.css	/^#logo{$/;"	function	line:108
+.main	/Users/Yoshinori/thursday_cafe/website/index.css	/^.main{$/;"	function	line:125
+.main:after	/Users/Yoshinori/thursday_cafe/website/index.css	/^.main:after {$/;"	function	line:133
 inset 0 0 20px #333333	/Users/Yoshinori/thursday_cafe/website/index.css	/^	inset 0 0 20px #333333,$/;"	function	line:143
 inset 0 0 20px #333333	/Users/Yoshinori/thursday_cafe/website/index.css	/^	inset 0 0 20px #333333,$/;"	function	line:144
-#C92	/Users/Yoshinori/thursday_cafe/website/index.css	/^#C92{$/;"	function	line:153
-#whats_new	/Users/Yoshinori/thursday_cafe/website/index.css	/^#whats_new{$/;"	function	line:162
-.headline	/Users/Yoshinori/thursday_cafe/website/index.css	/^.headline{$/;"	function	line:175
-.contents	/Users/Yoshinori/thursday_cafe/website/index.css	/^.contents{$/;"	function	line:180
+inset 0 0 20px #333333	/Users/Yoshinori/thursday_cafe/website/index.css	/^	inset 0 0 20px #333333,$/;"	function	line:145
+#C92	/Users/Yoshinori/thursday_cafe/website/index.css	/^#C92{$/;"	function	line:154
+#whats_new	/Users/Yoshinori/thursday_cafe/website/index.css	/^#whats_new{$/;"	function	line:163
+.headline	/Users/Yoshinori/thursday_cafe/website/index.css	/^.headline{$/;"	function	line:176
+.contents	/Users/Yoshinori/thursday_cafe/website/index.css	/^.contents{$/;"	function	line:181

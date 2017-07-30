@@ -76,7 +76,7 @@ footer{
 	top: 40px;
 	margin: auto;
 	text-align: center;
-	font-size: 1.5vw;
+	font-size: 3vmin;
 }
 
 #header_overwidth{
@@ -170,12 +170,12 @@ footer{
 	border-width: 10px;
 	border-color: #ff4500;
 	max-width: 100%;
-	font-size: 1.5vw;
+	font-size: 3vmin;
 }
 
 .headline{
 	text-align: center;
-	font-size: 1.5vw;
+	font-size: 3vmin;
 }
 
 .contents{

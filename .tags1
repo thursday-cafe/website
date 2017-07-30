@@ -8,27 +8,27 @@
 src: url('./fonts/Makinas-Flat-5.woff') format('woff')	/Users/Yoshinori/thursday_cafe/website/index.css	/^	src: url('.\/fonts\/Makinas-Flat-5.woff') format('woff'),$/;"	function	line:10
 url('./fonts/Makinas-Flat-5.woff2') format('woff2')	/Users/Yoshinori/thursday_cafe/website/index.css	/^	url('.\/fonts\/Makinas-Flat-5.woff2') format('woff2'),$/;"	function	line:11
 body	/Users/Yoshinori/thursday_cafe/website/index.css	/^body {$/;"	function	line:19
-/*body:after	/Users/Yoshinori/thursday_cafe/website/index.css	/^\/*body:after{$/;"	function	line:32
-inset 0 0 100px #111111	/Users/Yoshinori/thursday_cafe/website/index.css	/^	inset 0 0 100px #111111,$/;"	function	line:43
+/*body:after	/Users/Yoshinori/thursday_cafe/website/index.css	/^\/*body:after{$/;"	function	line:33
 inset 0 0 100px #111111	/Users/Yoshinori/thursday_cafe/website/index.css	/^	inset 0 0 100px #111111,$/;"	function	line:44
 inset 0 0 100px #111111	/Users/Yoshinori/thursday_cafe/website/index.css	/^	inset 0 0 100px #111111,$/;"	function	line:45
-div#wrapper	/Users/Yoshinori/thursday_cafe/website/index.css	/^div#wrapper {$/;"	function	line:49
-header	/Users/Yoshinori/thursday_cafe/website/index.css	/^header{$/;"	function	line:56
-footer	/Users/Yoshinori/thursday_cafe/website/index.css	/^footer{$/;"	function	line:63
-#info	/Users/Yoshinori/thursday_cafe/website/index.css	/^#info{$/;"	function	line:73
-#header_overwidth	/Users/Yoshinori/thursday_cafe/website/index.css	/^#header_overwidth{$/;"	function	line:85
-#footer_overwidth	/Users/Yoshinori/thursday_cafe/website/index.css	/^#footer_overwidth{$/;"	function	line:97
-#logo	/Users/Yoshinori/thursday_cafe/website/index.css	/^#logo{$/;"	function	line:111
-.main	/Users/Yoshinori/thursday_cafe/website/index.css	/^.main{$/;"	function	line:128
-.main:after	/Users/Yoshinori/thursday_cafe/website/index.css	/^.main:after {$/;"	function	line:136
-inset 0 0 20px #333333	/Users/Yoshinori/thursday_cafe/website/index.css	/^	inset 0 0 20px #333333,$/;"	function	line:146
+inset 0 0 100px #111111	/Users/Yoshinori/thursday_cafe/website/index.css	/^	inset 0 0 100px #111111,$/;"	function	line:46
+div#wrapper	/Users/Yoshinori/thursday_cafe/website/index.css	/^div#wrapper {$/;"	function	line:50
+header	/Users/Yoshinori/thursday_cafe/website/index.css	/^header{$/;"	function	line:57
+footer	/Users/Yoshinori/thursday_cafe/website/index.css	/^footer{$/;"	function	line:64
+#info	/Users/Yoshinori/thursday_cafe/website/index.css	/^#info{$/;"	function	line:74
+#header_overwidth	/Users/Yoshinori/thursday_cafe/website/index.css	/^#header_overwidth{$/;"	function	line:86
+#footer_overwidth	/Users/Yoshinori/thursday_cafe/website/index.css	/^#footer_overwidth{$/;"	function	line:98
+#logo	/Users/Yoshinori/thursday_cafe/website/index.css	/^#logo{$/;"	function	line:112
+.main	/Users/Yoshinori/thursday_cafe/website/index.css	/^.main{$/;"	function	line:129
+.main:after	/Users/Yoshinori/thursday_cafe/website/index.css	/^.main:after {$/;"	function	line:137
 inset 0 0 20px #333333	/Users/Yoshinori/thursday_cafe/website/index.css	/^	inset 0 0 20px #333333,$/;"	function	line:147
 inset 0 0 20px #333333	/Users/Yoshinori/thursday_cafe/website/index.css	/^	inset 0 0 20px #333333,$/;"	function	line:148
-#C92	/Users/Yoshinori/thursday_cafe/website/index.css	/^#C92{$/;"	function	line:157
-#whats_new	/Users/Yoshinori/thursday_cafe/website/index.css	/^#whats_new{$/;"	function	line:167
-.headline	/Users/Yoshinori/thursday_cafe/website/index.css	/^.headline{$/;"	function	line:180
-.contents	/Users/Yoshinori/thursday_cafe/website/index.css	/^.contents{$/;"	function	line:185
-@media(min-width: 600px)	/Users/Yoshinori/thursday_cafe/website/index.css	/^@media(min-width: 600px){$/;"	function	line:189
-#whats_new	/Users/Yoshinori/thursday_cafe/website/index.css	/^	#whats_new {$/;"	function	line:191
-.headline	/Users/Yoshinori/thursday_cafe/website/index.css	/^	.headline {$/;"	function	line:194
-#info	/Users/Yoshinori/thursday_cafe/website/index.css	/^	#info {$/;"	function	line:197
+inset 0 0 20px #333333	/Users/Yoshinori/thursday_cafe/website/index.css	/^	inset 0 0 20px #333333,$/;"	function	line:149
+#C92	/Users/Yoshinori/thursday_cafe/website/index.css	/^#C92{$/;"	function	line:158
+#whats_new	/Users/Yoshinori/thursday_cafe/website/index.css	/^#whats_new{$/;"	function	line:168
+.headline	/Users/Yoshinori/thursday_cafe/website/index.css	/^.headline{$/;"	function	line:181
+.contents	/Users/Yoshinori/thursday_cafe/website/index.css	/^.contents{$/;"	function	line:186
+@media(min-width: 600px)	/Users/Yoshinori/thursday_cafe/website/index.css	/^@media(min-width: 600px){$/;"	function	line:190
+#whats_new	/Users/Yoshinori/thursday_cafe/website/index.css	/^	#whats_new {$/;"	function	line:192
+.headline	/Users/Yoshinori/thursday_cafe/website/index.css	/^	.headline {$/;"	function	line:195
+#info	/Users/Yoshinori/thursday_cafe/website/index.css	/^	#info {$/;"	function	line:198

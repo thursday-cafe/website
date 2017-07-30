@@ -4,31 +4,27 @@
 !_TAG_PROGRAM_NAME	Exuberant Ctags	//
 !_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
 !_TAG_PROGRAM_VERSION	5.8	//
-html	/Users/Yoshinori/thursday_cafe/website/index.html	/^<html>$/;"	function	line:2
-head	/Users/Yoshinori/thursday_cafe/website/index.html	/^<head>$/;"	function	line:3
-meta	/Users/Yoshinori/thursday_cafe/website/index.html	/^	<meta http-equiv="X-UA-Compatible" content="IE=edge">$/;"	function	line:4
-title	/Users/Yoshinori/thursday_cafe/website/index.html	/^	<title>Thursday-Cafe<\/title>$/;"	function	line:5
-meta	/Users/Yoshinori/thursday_cafe/website/index.html	/^	<meta charset="utf-8">$/;"	function	line:6
-meta	/Users/Yoshinori/thursday_cafe/website/index.html	/^	<meta name="description" content="">$/;"	function	line:7
-meta	/Users/Yoshinori/thursday_cafe/website/index.html	/^	<meta name="author" content="">$/;"	function	line:8
-meta	/Users/Yoshinori/thursday_cafe/website/index.html	/^	<meta name="viewport" content="width=device-width, initial-scale=1">$/;"	function	line:9
-link	/Users/Yoshinori/thursday_cafe/website/index.html	/^	<link rel="stylesheet" href=".\/node_modules\/normalize.css\/normalize.css">$/;"	function	line:10
-link	/Users/Yoshinori/thursday_cafe/website/index.html	/^	<link rel="stylesheet" href=".\/default.css">$/;"	function	line:11
-link	/Users/Yoshinori/thursday_cafe/website/index.html	/^	<link rel="stylesheet" href=".\/index.css">$/;"	function	line:12
-script	/Users/Yoshinori/thursday_cafe/website/index.html	/^	<script src="\/\/cdn.jsdelivr.net\/html5shiv\/3.7.2\/html5shiv.min.js"><\/script>$/;"	function	line:14
-script	/Users/Yoshinori/thursday_cafe/website/index.html	/^	<script src="\/\/cdnjs.cloudflare.com\/ajax\/libs\/respond.js\/1.4.2\/respond.min.js"><\/script>$/;"	function	line:15
-link	/Users/Yoshinori/thursday_cafe/website/index.html	/^	<link rel="shortcut icon" href="">$/;"	function	line:17
-body	/Users/Yoshinori/thursday_cafe/website/index.html	/^<body>$/;"	function	line:19
-div	/Users/Yoshinori/thursday_cafe/website/index.html	/^	<div id="wrapper">$/;"	function	line:20
-header	/Users/Yoshinori/thursday_cafe/website/index.html	/^		<header>$/;"	function	line:21
-img	/Users/Yoshinori/thursday_cafe/website/index.html	/^			<img id="logo" src=".\/image\/logo.png" alt="木曜喫茶ロゴ">$/;"	function	line:22
-div	/Users/Yoshinori/thursday_cafe/website/index.html	/^			<div id="header_overwidth">$/;"	function	line:23
-div	/Users/Yoshinori/thursday_cafe/website/index.html	/^		<div class="main">$/;"	function	line:26
-img	/Users/Yoshinori/thursday_cafe/website/index.html	/^			<img id="key" src=".\/image\/main.png" alt="一枚絵">$/;"	function	line:27
-img	/Users/Yoshinori/thursday_cafe/website/index.html	/^		<img id="C92" src=".\/image\/C92.png" alt="C92 配布予定" \/>$/;"	function	line:29
-div	/Users/Yoshinori/thursday_cafe/website/index.html	/^		<div id="whats_new">$/;"	function	line:30
-p	/Users/Yoshinori/thursday_cafe/website/index.html	/^			<p class="headline">$/;"	function	line:31
-p	/Users/Yoshinori/thursday_cafe/website/index.html	/^			<p class="contents">$/;"	function	line:34
-footer	/Users/Yoshinori/thursday_cafe/website/index.html	/^		<footer>$/;"	function	line:38
-div	/Users/Yoshinori/thursday_cafe/website/index.html	/^			<div id="footer_overwidth">$/;"	function	line:39
-p	/Users/Yoshinori/thursday_cafe/website/index.html	/^				<p>$/;"	function	line:40
+@font-face	/Users/Yoshinori/thursday_cafe/website/index.css	/^@font-face {$/;"	function	line:8
+src: url('./fonts/Makinas-Flat-5.woff') format('woff')	/Users/Yoshinori/thursday_cafe/website/index.css	/^	src: url('.\/fonts\/Makinas-Flat-5.woff') format('woff'),$/;"	function	line:10
+url('./fonts/Makinas-Flat-5.woff2') format('woff2')	/Users/Yoshinori/thursday_cafe/website/index.css	/^	url('.\/fonts\/Makinas-Flat-5.woff2') format('woff2'),$/;"	function	line:11
+body	/Users/Yoshinori/thursday_cafe/website/index.css	/^body {$/;"	function	line:19
+body:after	/Users/Yoshinori/thursday_cafe/website/index.css	/^body:after{$/;"	function	line:28
+inset 0 0 100px #111111	/Users/Yoshinori/thursday_cafe/website/index.css	/^	inset 0 0 100px #111111,$/;"	function	line:39
+inset 0 0 100px #111111	/Users/Yoshinori/thursday_cafe/website/index.css	/^	inset 0 0 100px #111111,$/;"	function	line:40
+inset 0 0 100px #111111	/Users/Yoshinori/thursday_cafe/website/index.css	/^	inset 0 0 100px #111111,$/;"	function	line:41
+div#wrapper	/Users/Yoshinori/thursday_cafe/website/index.css	/^div#wrapper {$/;"	function	line:45
+header	/Users/Yoshinori/thursday_cafe/website/index.css	/^header{$/;"	function	line:52
+footer	/Users/Yoshinori/thursday_cafe/website/index.css	/^footer{$/;"	function	line:59
+footer p	/Users/Yoshinori/thursday_cafe/website/index.css	/^footer p{$/;"	function	line:71
+#header_overwidth	/Users/Yoshinori/thursday_cafe/website/index.css	/^#header_overwidth{$/;"	function	line:78
+#footer_overwidth	/Users/Yoshinori/thursday_cafe/website/index.css	/^#footer_overwidth{$/;"	function	line:90
+#logo	/Users/Yoshinori/thursday_cafe/website/index.css	/^#logo{$/;"	function	line:103
+.main	/Users/Yoshinori/thursday_cafe/website/index.css	/^.main{$/;"	function	line:120
+.main:after	/Users/Yoshinori/thursday_cafe/website/index.css	/^.main:after {$/;"	function	line:129
+inset 0 0 20px #333333	/Users/Yoshinori/thursday_cafe/website/index.css	/^	inset 0 0 20px #333333,$/;"	function	line:139
+inset 0 0 20px #333333	/Users/Yoshinori/thursday_cafe/website/index.css	/^	inset 0 0 20px #333333,$/;"	function	line:140
+inset 0 0 20px #333333	/Users/Yoshinori/thursday_cafe/website/index.css	/^	inset 0 0 20px #333333,$/;"	function	line:141
+#C92	/Users/Yoshinori/thursday_cafe/website/index.css	/^#C92{$/;"	function	line:145
+#whats_new	/Users/Yoshinori/thursday_cafe/website/index.css	/^#whats_new{$/;"	function	line:154
+.headline	/Users/Yoshinori/thursday_cafe/website/index.css	/^.headline{$/;"	function	line:167
+.contents	/Users/Yoshinori/thursday_cafe/website/index.css	/^.contents{$/;"	function	line:172

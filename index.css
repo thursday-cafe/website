@@ -44,6 +44,7 @@ body:after{
 
 div#wrapper {
 	width: 960px;
+	max-width: 100%; 
 	margin: auto;
 	position: relative;
 }

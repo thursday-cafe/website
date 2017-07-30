@@ -51,25 +51,26 @@ meta	/Users/Yoshinori/thursday_cafe/website/index.html	/^	<meta http-equiv="X-UA
 title	/Users/Yoshinori/thursday_cafe/website/index.html	/^	<title>同人ゲームサークル 木曜喫茶<\/title>$/;"	function	line:5
 meta	/Users/Yoshinori/thursday_cafe/website/index.html	/^	<meta charset="utf-8">$/;"	function	line:6
 meta	/Users/Yoshinori/thursday_cafe/website/index.html	/^	<meta name=”Description” content=”同人ゲームサークル「木曜喫茶」のホームページです。2D横スクロールアクションゲームを制作しています。2017年8月11日、コミックマーケット92の1日目にて、体験版を配布予定です。”\/>$/;"	function	line:7
-meta	/Users/Yoshinori/thursday_cafe/website/index.html	/^	<meta name="author" content="">$/;"	function	line:8
-meta	/Users/Yoshinori/thursday_cafe/website/index.html	/^	<meta name="viewport" content="width=device-width, initial-scale=1">$/;"	function	line:9
-link	/Users/Yoshinori/thursday_cafe/website/index.html	/^	<link rel="stylesheet" href=".\/node_modules\/normalize.css\/normalize.css">$/;"	function	line:10
-link	/Users/Yoshinori/thursday_cafe/website/index.html	/^	<link rel="stylesheet" href=".\/default.css">$/;"	function	line:11
-link	/Users/Yoshinori/thursday_cafe/website/index.html	/^	<link rel="stylesheet" href=".\/index.css">$/;"	function	line:12
-script	/Users/Yoshinori/thursday_cafe/website/index.html	/^	<script src="\/\/cdn.jsdelivr.net\/html5shiv\/3.7.2\/html5shiv.min.js"><\/script>$/;"	function	line:14
-script	/Users/Yoshinori/thursday_cafe/website/index.html	/^	<script src="\/\/cdnjs.cloudflare.com\/ajax\/libs\/respond.js\/1.4.2\/respond.min.js"><\/script>$/;"	function	line:15
-link	/Users/Yoshinori/thursday_cafe/website/index.html	/^	<link rel="shortcut icon" href="">$/;"	function	line:17
-body	/Users/Yoshinori/thursday_cafe/website/index.html	/^<body>$/;"	function	line:19
-div	/Users/Yoshinori/thursday_cafe/website/index.html	/^	<div id="wrapper">$/;"	function	line:20
-header	/Users/Yoshinori/thursday_cafe/website/index.html	/^		<header>$/;"	function	line:21
-img	/Users/Yoshinori/thursday_cafe/website/index.html	/^			<img id="logo" src=".\/image\/logo.png" alt="木曜喫茶ロゴ">$/;"	function	line:22
-div	/Users/Yoshinori/thursday_cafe/website/index.html	/^			<div id="header_overwidth">$/;"	function	line:23
-div	/Users/Yoshinori/thursday_cafe/website/index.html	/^		<div class="main">$/;"	function	line:26
-img	/Users/Yoshinori/thursday_cafe/website/index.html	/^			<img id="key" src=".\/image\/main.png" alt="一枚絵">$/;"	function	line:27
-img	/Users/Yoshinori/thursday_cafe/website/index.html	/^		<img id="C92" src=".\/image\/C92.png" alt="C92 配布予定" \/>$/;"	function	line:29
-div	/Users/Yoshinori/thursday_cafe/website/index.html	/^		<div id="whats_new">$/;"	function	line:30
-p	/Users/Yoshinori/thursday_cafe/website/index.html	/^			<p class="headline">$/;"	function	line:31
-p	/Users/Yoshinori/thursday_cafe/website/index.html	/^			<p class="contents">$/;"	function	line:34
-footer	/Users/Yoshinori/thursday_cafe/website/index.html	/^		<footer>$/;"	function	line:38
-div	/Users/Yoshinori/thursday_cafe/website/index.html	/^			<div id="footer_overwidth"><\/div>$/;"	function	line:39
-p	/Users/Yoshinori/thursday_cafe/website/index.html	/^				<p id="info">$/;"	function	line:40
+meta	/Users/Yoshinori/thursday_cafe/website/index.html	/^	<meta name="google-site-verification" content="FqtrryNIH4AfWrxPJe_s7AblLzrssn1zd1zdQr3747o" \/>$/;"	function	line:8
+meta	/Users/Yoshinori/thursday_cafe/website/index.html	/^	<meta name="author" content="">$/;"	function	line:9
+meta	/Users/Yoshinori/thursday_cafe/website/index.html	/^	<meta name="viewport" content="width=device-width, initial-scale=1">$/;"	function	line:10
+link	/Users/Yoshinori/thursday_cafe/website/index.html	/^	<link rel="stylesheet" href=".\/node_modules\/normalize.css\/normalize.css">$/;"	function	line:11
+link	/Users/Yoshinori/thursday_cafe/website/index.html	/^	<link rel="stylesheet" href=".\/default.css">$/;"	function	line:12
+link	/Users/Yoshinori/thursday_cafe/website/index.html	/^	<link rel="stylesheet" href=".\/index.css">$/;"	function	line:13
+script	/Users/Yoshinori/thursday_cafe/website/index.html	/^	<script src="\/\/cdn.jsdelivr.net\/html5shiv\/3.7.2\/html5shiv.min.js"><\/script>$/;"	function	line:15
+script	/Users/Yoshinori/thursday_cafe/website/index.html	/^	<script src="\/\/cdnjs.cloudflare.com\/ajax\/libs\/respond.js\/1.4.2\/respond.min.js"><\/script>$/;"	function	line:16
+link	/Users/Yoshinori/thursday_cafe/website/index.html	/^	<link rel="shortcut icon" href="">$/;"	function	line:18
+body	/Users/Yoshinori/thursday_cafe/website/index.html	/^<body>$/;"	function	line:20
+div	/Users/Yoshinori/thursday_cafe/website/index.html	/^	<div id="wrapper">$/;"	function	line:21
+header	/Users/Yoshinori/thursday_cafe/website/index.html	/^		<header>$/;"	function	line:22
+img	/Users/Yoshinori/thursday_cafe/website/index.html	/^			<img id="logo" src=".\/image\/logo.png" alt="木曜喫茶ロゴ">$/;"	function	line:23
+div	/Users/Yoshinori/thursday_cafe/website/index.html	/^			<div id="header_overwidth">$/;"	function	line:24
+div	/Users/Yoshinori/thursday_cafe/website/index.html	/^		<div class="main">$/;"	function	line:27
+img	/Users/Yoshinori/thursday_cafe/website/index.html	/^			<img id="key" src=".\/image\/main.png" alt="一枚絵">$/;"	function	line:28
+img	/Users/Yoshinori/thursday_cafe/website/index.html	/^		<img id="C92" src=".\/image\/C92.png" alt="C92 配布予定" \/>$/;"	function	line:30
+div	/Users/Yoshinori/thursday_cafe/website/index.html	/^		<div id="whats_new">$/;"	function	line:31
+p	/Users/Yoshinori/thursday_cafe/website/index.html	/^			<p class="headline">$/;"	function	line:32
+p	/Users/Yoshinori/thursday_cafe/website/index.html	/^			<p class="contents">$/;"	function	line:35
+footer	/Users/Yoshinori/thursday_cafe/website/index.html	/^		<footer>$/;"	function	line:39
+div	/Users/Yoshinori/thursday_cafe/website/index.html	/^			<div id="footer_overwidth"><\/div>$/;"	function	line:40
+p	/Users/Yoshinori/thursday_cafe/website/index.html	/^				<p id="info">$/;"	function	line:41

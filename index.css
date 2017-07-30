@@ -20,7 +20,7 @@ body {
 	z-index: 1;
 	background-image: url("./image/background.gif");
 	font-family: 'Makinas-Flat-5',verdana,"ヒラギノ角ゴ Pro W3","Hiragino Kaku Gothic Pro",Osaka,"ＭＳ Ｐゴシック","MS PGothic",Sans-Serif;
-	overflow-x: hidden;
+	overflow: hidden;
 	font-size: 20px;
 	position: relative;
 }

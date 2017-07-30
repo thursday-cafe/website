@@ -127,11 +127,13 @@ footer{
 
 .main{
 	z-index: 2;
+	margin-bottom: 5px;
 	width: 960px;
 	max-width: 100%;
-	z-index: 1;
-	display: inline-block;
+	display: block;
 	position: relative;
+	font-size: 0;
+	line-height: 0;
 }
 
 .main:after {
@@ -164,7 +166,7 @@ footer{
 	bottom: 0px;
 	right: 0px;
 	max-width: 100%;
-	margin: 5px auto 5px auto;
+	margin: 10px auto 5px auto;
 }
 
 #whats_new{

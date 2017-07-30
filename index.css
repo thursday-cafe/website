@@ -17,6 +17,7 @@
 
 
 body {
+	margin: 0px;
 	z-index: 1;
 	background-image: url("./image/background.gif");
 	font-family: 'Makinas-Flat-5',verdana,"ヒラギノ角ゴ Pro W3","Hiragino Kaku Gothic Pro",Osaka,"ＭＳ Ｐゴシック","MS PGothic",Sans-Serif;
@@ -160,12 +161,13 @@ footer{
 	bottom: 0px;
 	right: 0px;
 	max-width: 100%;
+	margin: 5px auto 5px auto;
 }
 
 #whats_new{
 	width: auto;
 	height: 100px;
-	margin: 10px auto;
+	margin: 5px auto 5px auto;
 	padding: auto;
 	background-color: white;
 	border: solid;

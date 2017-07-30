@@ -15,7 +15,7 @@ inset 0 0 100px #111111	/Users/Yoshinori/thursday_cafe/website/index.css	/^	inse
 div#wrapper	/Users/Yoshinori/thursday_cafe/website/index.css	/^div#wrapper {$/;"	function	line:46
 header	/Users/Yoshinori/thursday_cafe/website/index.css	/^header{$/;"	function	line:53
 footer	/Users/Yoshinori/thursday_cafe/website/index.css	/^footer{$/;"	function	line:60
-#info	/Users/Yoshinori/thursday_cafe/website/index.css	/^#info{$/;"	function	line:71
+#info	/Users/Yoshinori/thursday_cafe/website/index.css	/^#info{$/;"	function	line:70
 #header_overwidth	/Users/Yoshinori/thursday_cafe/website/index.css	/^#header_overwidth{$/;"	function	line:82
 #footer_overwidth	/Users/Yoshinori/thursday_cafe/website/index.css	/^#footer_overwidth{$/;"	function	line:94
 #logo	/Users/Yoshinori/thursday_cafe/website/index.css	/^#logo{$/;"	function	line:108

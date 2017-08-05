@@ -82,6 +82,22 @@ footer{
 	font-size: 3.5vw;
 }
 
+#when{
+	line-height: 75px;
+	z-index: 3;
+	position: relative;
+	background-color: #ff4500;
+	height: 75px;
+	width: 960px;
+	max-width: 100%;
+	margin: 15px auto 5px auto;
+	padding: auto;
+	text-align: center;
+	vertical-align: middle;
+	font-size: 7vw;
+	color: #ffffff;
+}
+
 #header_overwidth{
 	z-index: 2;
 	height: 75px;
@@ -197,13 +213,16 @@ footer{
 @media(min-width: 600px){
 
 	#whats_new {
-		font-size:20px;
+		font-size: 20px;
 	}
 	.headline {
-		font-size:20px;
+		font-size: 20px;
 	}
 	#info {
-		font-size:20px;
+		font-size: 20px;
+	}
+	#when{
+		font-size: 50px;
 	}
 
 }

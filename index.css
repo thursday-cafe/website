@@ -94,7 +94,7 @@ footer{
 	padding: auto;
 	text-align: center;
 	vertical-align: middle;
-	font-size: 7vw;
+	font-size: 5.5vw;
 	color: #ffffff;
 }
 
@@ -210,6 +210,12 @@ footer{
 	text-align: center;
 }
 
+@media(min-width: 500px){
+	#when{
+		font-size: 25px;
+	}
+}
+
 @media(min-width: 600px){
 
 	#whats_new {
@@ -222,7 +228,13 @@ footer{
 		font-size: 20px;
 	}
 	#when{
-		font-size: 50px;
+		font-size: 30px;
 	}
 
+}
+
+@media(min-width: 700px){
+	#when{
+		font-size: 35px;
+	}
 }
